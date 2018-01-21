@@ -1,4 +1,4 @@
-Learn Pandas in Y Minutes
+## Learn Pandas in Y Minutes
 
-Work in progress. ETC Jan 2018.
-Pandas in the style of [learnxinyminutes](https://learnxinyminutes.com/).
+A Pandas guide in the style of [learnxinyminutes](https://learnxinyminutes.com/).
+Notebook contains an intro/refresher and a sample data analysis.
